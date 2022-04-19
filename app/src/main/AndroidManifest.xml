@@ -21,7 +21,7 @@
             android:exported="false"
             android:label="@string/title_activity_recovery"
             android:parentActivityName=".LoginActivity"
-            android:theme="@style/Theme.ResponsiFintech.NoActionBar" />
+           />
         <activity
             android:name=".LoginActivity"
             android:exported="true">
